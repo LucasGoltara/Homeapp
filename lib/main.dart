@@ -64,6 +64,21 @@ class _MyHomePageState extends State<MyHomePage> {
                       style: TextStyle(fontSize: 19),
                     ),
                   ),
+                  // RaisedButton(
+                  //     child: Container(
+                  //       width: 300,
+                  //       child: Padding(
+                  //         padding: const EdgeInsets.all(15.0),
+                  //         child: Text(
+                  //           'Resetar senha',
+                  //           style: TextStyle(color: Colors.white, fontSize: 20),
+                  //           textAlign: TextAlign.center,
+                  //         ),
+                  //       ),
+                  //     ),
+                  //     textColor: Colors.white,
+                  //     color: Colors.purple[800],
+                  //     onPressed: () {})
                 ],
               ),
             )
